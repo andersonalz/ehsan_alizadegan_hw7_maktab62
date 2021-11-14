@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+}
+
+.container {
+  margin: 20px 0px 0px 20px;
+  height: 400px;
+  width: 600px;
+  background-color:green;
+  font-size: 1.2rem;
+  border: solid 1px black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.target {
+  height: 300px;
+  margin: 20px 150px 0px 20px;
+  border: solid 1px black;
+}
+
+.child {
+  height: 180px;
+  border: solid 1px black;
+  margin: 40px 50px 40px 20px;
+}
+
+button {
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 10px;
+  font-size: 1rem;
+}

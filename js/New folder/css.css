@@ -1,0 +1,16 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   overflow: auto;
+ }
+ 
+ .box {
+   height: 300px;
+   width: 300px;
+   background-color: green;
+ }
+ 
+ h3 {
+   color: white;
+ }
